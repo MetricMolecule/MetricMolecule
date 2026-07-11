@@ -4,7 +4,7 @@
 
 **Backend & distributed systems, with an ML/AI streak**
 
-finding things to build that scale, not just things that work (HELP)
+finding things to build that scale, not just things that work (but HELP)
 
 </div>
 
